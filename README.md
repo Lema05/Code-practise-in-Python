@@ -1,1 +1,1 @@
-This is where  code Python for fun!
+This is where I code Python for fun!
